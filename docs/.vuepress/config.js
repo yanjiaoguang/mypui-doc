@@ -2,12 +2,12 @@ module.exports = {
     title: 'mypui',
     description: '基于nvue的全端组件与模版库，支持编译到所有APP/小程序/H5',
     head: [
-        ['link', { rel: 'icon', href: '/assets/img/logo.png' }]
+        ['link', { rel: 'icon', href: '/assets/img/logo.png' }],
     ],
-    theme: 'antdocs',
     plugins: [
         ['vuepress-plugin-code-copy', true],
     ],
+    theme: 'antdocs',
     themeConfig: {
         backToTop: true,
         logo: '/assets/img/logo.png',

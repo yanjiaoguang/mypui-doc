@@ -7,6 +7,10 @@ page: https://mypui.redou.vip/h5/#/pages/scroll/index
 
 ## Props
 
+<div class="demo-box">
+<iframe scrolling="auto" frameborder="0" src="https://h5.uviewui.com/#/" class="demo-box-iframe"></iframe>
+</div>
+
 | Prop name       | Description                                       | Type    | Values | Default                                                                              |
 | --------------- | ------------------------------------------------- | ------- | ------ | ------------------------------------------------------------------------------------ |
 | showScrollbar   | 是否显示 scrollbar                                | boolean | -      | true                                                                                 |
